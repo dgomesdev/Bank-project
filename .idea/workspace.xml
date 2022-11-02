@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fa583cd-e0a1-48c0-9d84-28e3f35f4c5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LegalPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NaturalPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+    <list default="true" id="3fa583cd-e0a1-48c0-9d84-28e3f35f4c5a" name="Changes" comment="First commit of Bank project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +46,21 @@
       <option name="presentableId" value="Default" />
       <updated>1667339982347</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit of Bank project">
+      <created>1667347933011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667347933011</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit of Bank project">
+      <created>1667348113326</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667348113326</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +73,25 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit of Bank project" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit of Bank project" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

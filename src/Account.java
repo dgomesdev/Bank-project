@@ -21,12 +21,13 @@ public abstract class Account implements ATM{
 
     @Override
     public void deposit(double amount) {
-
+        this.balance += amount;
     }
 
     @Override
     public void transfer(double amount, Account destinationAccount) {
-
+        this.balance -= amount;
+        destinationAccount.balance += amount;
     }
 
     public int getAgencyNumber() {
@@ -44,7 +45,7 @@ public abstract class Account implements ATM{
     protected void printInfo(){
         System.out.printf("Owner: %s%n", this.client.getName());
         System.out.printf("Agency number: %d%n", this.agencyNumber);
-        System.out.printf("Account number: %d%n", this.agencyNumber);
+        System.out.printf("Account number: %d%n", this.accountNumber);
         System.out.printf("Balance: %.2f%n", this.balance);
     }
 
